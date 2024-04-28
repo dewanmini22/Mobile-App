@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">99515517701</string>
+    <string name="google_api_key" translatable="false">AIzaSyCMAkP4UKNmaCmGEl7doM6Ju8UQNOCnjrw</string>
+    <string name="google_app_id" translatable="false">1:99515517701:android:c64e862eacf85034b9856c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCMAkP4UKNmaCmGEl7doM6Ju8UQNOCnjrw</string>
+    <string name="google_storage_bucket" translatable="false">notebook-66482.appspot.com</string>
+    <string name="project_id" translatable="false">notebook-66482</string>
+</resources>
